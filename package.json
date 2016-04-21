@@ -1,0 +1,17 @@
+{
+  "name": "callback2promise",
+  "version": "1.0.0",
+  "description": "converts nodejs style callback functions to promise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "convert",
+    "callback",
+    "to",
+    "promise"
+  ],
+  "author": "kutlu sahin",
+  "license": "ISC"
+}

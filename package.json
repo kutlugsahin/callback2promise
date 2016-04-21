@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "converts nodejs style callback functions to promise",
   "main": "index.js",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/kutlugsahin/callback2promise.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

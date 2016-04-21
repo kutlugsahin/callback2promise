@@ -1,5 +1,5 @@
 # callback2promise
-convert node style callbacks to promise for es6
+Converts functions with node style callbacks to promise (es6)
 
 # installation
 ```javascript

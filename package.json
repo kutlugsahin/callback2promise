@@ -1,6 +1,6 @@
 {
   "name": "callback2promise",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "converts nodejs style callback functions to promise",
   "main": "index.js",
   "repository": {

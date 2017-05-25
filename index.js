@@ -19,7 +19,7 @@ module.exports = function (f) {
                 else res(result);
             });
 
-            f.apply(ctx, args);
+            f.apply(ctx, args); //
         });
     }
 };

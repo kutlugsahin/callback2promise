@@ -13,8 +13,8 @@ var c2p = require('callback2promise');
 // ordinary function with any number of parameters and a callback at the end
 var nodeStyleFunc = function(param1, param2, callback){
   setTimeout(
-    func(){ 
-    callback(null, 'done') 
+    function(){ 
+      callback(null, 'done') 
     }, 200);
 }
 
